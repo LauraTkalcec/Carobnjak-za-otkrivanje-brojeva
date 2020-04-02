@@ -40,7 +40,7 @@ public class Carobnjak : MonoBehaviour {
         maxBrojPokusaja = maxBrojPokusaja - 1;
         if(maxBrojPokusaja<=0)
         {
-            Application.LoadLevel("Win");
+            Application.LoadLevel("Lose");
         }
     }
 }

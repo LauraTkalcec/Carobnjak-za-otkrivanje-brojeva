@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 using UnityEngine;
 
 public class LevelManager : MonoBehaviour
@@ -12,7 +13,7 @@ public class LevelManager : MonoBehaviour
 
     public void QuitRequest()
     {
-        Debug.Log("Gašenje!");
+        Debug.Log("Izlaz");
         Application.Quit();
     }
 

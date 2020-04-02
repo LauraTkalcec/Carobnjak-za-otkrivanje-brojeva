@@ -1,0 +1,57 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+    Driver:   23.21.13.9125
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\VI semestar\Razvoj računalnih igara\02_vjezba 1\Carobnjak-za-otkrivanje-brojeva\1_vjezba_Carobnjak_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.447300 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4274 -> priority: 1 
+  Thread -> id: 41e8 -> priority: 1 
+Učitavanje razine: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.442000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 0.362200 ms (FindLiveObjects: 0.026200 ms CreateObjectMapping: 0.019400 ms MarkObjects: 0.304500 ms  DeleteObjects: 0.011000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.096700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.762400 ms (FindLiveObjects: 0.058700 ms CreateObjectMapping: 0.083900 ms MarkObjects: 0.595300 ms  DeleteObjects: 0.022300 ms)
+
+Učitavanje razine: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.403100 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.245500 ms (FindLiveObjects: 0.023000 ms CreateObjectMapping: 0.019300 ms MarkObjects: 0.193100 ms  DeleteObjects: 0.009200 ms)
+
